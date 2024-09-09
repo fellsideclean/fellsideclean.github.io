@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Fellside Cleans
+title: Fellside Clean
 description: |
-  Quality cleans in south Cumbria
+  Quality cleaning services in south Cumbria
 owner: Sally # or company name
 first_published: 2024 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "/index.html" # the subpath of your site, e.g. /blog
-url: "https://fellsidecleans.uk" # the base hostname & protocol for your site
+url: "https://fellsideclean.uk" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
