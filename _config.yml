@@ -55,6 +55,3 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-
-# Theme https://github.com/arkadianriver/spectral
-remote_theme: https://github.com/arkadianriver/spectral
