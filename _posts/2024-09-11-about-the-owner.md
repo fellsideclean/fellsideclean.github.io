@@ -1,6 +1,5 @@
 ---
 layout: post
-title: ""
 author: "Fellside"
 categories: info
 tags: [info,about]
