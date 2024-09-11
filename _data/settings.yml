@@ -7,8 +7,6 @@ disqus:
 google-ID: '' #'UA-112060364-2'
 
 menu:
-- {name: 'Holiday Let Cleans',  url: 'facts'}
-- {name: 'Other Services', url: 'resources'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
