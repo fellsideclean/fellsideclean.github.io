@@ -10,6 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+# https://github.com/LeNPaul/Millennial
 title:		           "Fellside Clean"
 description:	       "Quality cleans in south Cumbria"
 author:              "Fellside"
