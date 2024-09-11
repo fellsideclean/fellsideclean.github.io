@@ -12,5 +12,5 @@ Our quality holiday let cleaning services, based in south Cumbria.
 ## Some Information
 
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+[Other services]({{ site.github.url }}{% post_url 2024-09-11-other-services %})
 
