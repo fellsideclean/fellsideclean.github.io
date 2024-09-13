@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Learn More"
+title: "T"
 author: "Fellside"
 categories: info
 tags: [info,about]
