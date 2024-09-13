@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 # https://github.com/LeNPaul/Millennial
-title:		           "Fellside Cleaners"
+title:		           "Home"
 description:	       "Quality cleans in south Cumbria"
 author:              "Fellside"
 
