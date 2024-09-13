@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Learn More"
 author: "Fellside"
 categories: info
