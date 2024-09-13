@@ -4,7 +4,7 @@ title: "Holiday Let Cleans"
 author: "Fellside"
 categories: documentation
 tags: [documentation,about]
-image: cuba-1.jpg
+image: The-Langdales-copyright-harry-johnson-photography.jpg
 ---
 
 Our quality holiday let cleaning services, based in south Cumbria.

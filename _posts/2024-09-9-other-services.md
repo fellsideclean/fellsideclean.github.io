@@ -4,7 +4,7 @@ title: "Other Services"
 author: "Fellside"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: Storrs-Hall-Windermere-Copyright-John-Hodgson.jpg
 ---
 
 # Our Other Services
