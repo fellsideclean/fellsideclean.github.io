@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "T"
+layout: post
+title: "Learn More"
 author: "Fellside"
 categories: info
 tags: [info,about]
