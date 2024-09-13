@@ -4,7 +4,7 @@ title: "Learn More"
 author: "Fellside"
 categories: info
 tags: [info,about]
-image: cuba-2.jpg
+image: logo.jpg
 ---
 
 Hi there! More info to come...
